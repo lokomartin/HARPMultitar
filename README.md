@@ -28,6 +28,8 @@ _🎯 Follow me and star this repo for more telegram bots. @AnjanaMadu_
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HarpTechOrg/multiupload)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Flokomartin%2FHARPMultitar&envs=API_HASH%2CAPP_ID%2CBOT_TOKEN%2CCHNLUSRNME%2COWNRID%2CLOG_CHANNEL&referralCode=8a8v34)
+
 ## 🚩 Credits
 - [Lucifeermorningstar](https://github.com/lucifeermorningstar) for Telethon Bot Base. (A Daisy Owner)
 - [Amarnath C](https://github.com/AmarnathCJD) for Force Sub and Many More.. (A Daisy Dev)
